@@ -1,1 +1,8 @@
-Algo
+Decide where to get pizza from.
+Decide what kind of pizza to get.
+Call the decided pizza business to deliver the order.
+Recieve information from the pizza business on how much it will cost and how long it will take to be delivered.
+Wait for the pizza to be delivered.
+Pay for the pizza.
+Recieve the pizza.
+Eat the pizza.
